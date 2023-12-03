@@ -1,5 +1,5 @@
-##Emre DOĞAN 1910205031
-#BSM409 - Görüntü işleme ödevi içindekiler : 
+## Emre DOĞAN 1910205031
+- # BSM409 - Görüntü işleme ödevi içindekiler : 
 - 1 - Türk parası üzerinde dilimleme /dilimleme
 - 2 - Bir görüntünün germesini yapınız /germe
 - 3 - Bir görüntüde max-filter ve box-filter kullan. /max-box-filter
